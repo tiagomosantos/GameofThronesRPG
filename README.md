@@ -63,3 +63,5 @@ Contributions to the Game of Thrones RPG are welcome! Please feel free to submit
 
 
 Enjoy your journey through Westeros!
+
+![My Image](images/game.png)
