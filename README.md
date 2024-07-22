@@ -1,5 +1,3 @@
-# GameofThronesRPG
-
 # Game of Thrones RPG
 
 ## Description
